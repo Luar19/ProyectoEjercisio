@@ -2,12 +2,12 @@ export const ALL_PRODUCTS_CATEGORY = "Todos";
 
 export const categories = [
   {
-    name: "Hogar",
-    description: "Pequeños detalles, gran cambio",
+    name: "Hogar para todos",
+    description: "Pequeños detalles, gran cambio para todos",
     tone: "home",
   },
   {
-    name: "Estilo de vida",
+    name: "Estilo de vida y mas",
     description: "Para tus días favoritos",
     tone: "lifestyle",
   },
